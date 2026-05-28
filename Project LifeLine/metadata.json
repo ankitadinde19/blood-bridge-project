@@ -1,0 +1,6 @@
+{
+  "name": "LifeLink",
+  "description": "Smart Blood Donation & Emergency Management System connecting hospitals, blood banks, donors, and emergency patients in real-time.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
