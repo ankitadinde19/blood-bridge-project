@@ -1,4 +1,4 @@
-# Project LifeLine
+# Project LifeLink
 
 Project LifeLine is a smart blood donation and emergency healthcare support platform developed to help patients quickly connect with blood donors during critical situations. The main objective of this project is to reduce the delay in finding blood donors and provide a simple digital solution for emergency medical support.
 
